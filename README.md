@@ -25,6 +25,6 @@ No, en mi opinión no podemos suprimir la vida de nuestro planeta ni en el caso 
 
 Por otra parte lo unico que podria acabar con nosotros no somos en si nosotros si no catastrofes naturales, ya sea un impacto de un meteorito, un fenomeno cosmico etc. 
 
-Mi conclusón, es muy dificil pensar que la humanidad pueda acabar con **toda** la vida del planeta
+En cuanto a mi clonclusión, es muy dificil pensar que la humanidad pueda acabar con **toda** la vida del planeta
 
 
