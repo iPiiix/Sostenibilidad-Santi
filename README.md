@@ -1,5 +1,15 @@
 ## Sostenibilidad 
 
+
+### 17/10/2025
+
+Ha lanzado la pregunta de si vivimos solos. Es retórica, claro: obviamente no vivimos solos. En clase se dijo que vivimos con diferentes especies. Posteriormente surgió la cuestión: ¿Qué hacemos nosotros como seres humanos, cooperamos o competimos?
+
+Nosotros cooperamos en un rango determinado de personas pero competimos con otros. Al final esas relaciones de cooperacion estan basadas en un interes común. Sin embargo, incluso dentro de esa cooperación existen intereses personales y cierta avaricia por destacar o conseguir algo dentro del propio equipo. 
+
+Un ejemplo sencillo pero práctico es el de una empresa: las personas cooperan para que funcione, pero al mismo tiempo compiten entre sí por obtener un mejor puesto, los cuales son limitados. Además, la empresa en conjunto compite con otras empresas.
+
+Es casi una especie de bucle: todos competimos entre nosotros, pero a la vez necesitamos cooperar para avanzar. Es una dinámica algo extraña
 ### 10/10/2025
 
 El día de hoy, el profesor ha hablado sobre la **capacidad de carga**, poniendo como ejemplo la evolución bacteriana en un entorno y su curva de “natalidad”. Estas bacterias generan un ecosistema favorable para su desarrollo y comienzan a crecer de forma acelerada, hasta alcanzar un punto límite en el que el entorno deja de poder sostener un aumento adicional de población. A partir de ese instante, el sistema entra en equilibrio con la cantidad de individuos que el medio es capaz de mantener.
