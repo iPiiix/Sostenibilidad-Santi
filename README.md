@@ -1,5 +1,16 @@
 ## Sostenibilidad 
 
+### 24/10/2025
+
+En esta clase ha hablado sobre la estrategia K y R. Sobre la natalidad, evolucion de los seres vivos etc. 
+
+* **Estrategia R:** Se basa en producir muchas crías, pero con poca inversión en cada una
+
+* **Estrategia K:** Produce pocas crías, pero con gran inversión de cuidado y recursos.
+
+Ademas ha lanzado una pregunta de hoy es que que estrategia seguimos hoy en dia: 
+
+De forma clara seguimos la estrategia K. Tenemos una baja natalidad pero una mayor probabilidad de supervivencia. Sobre todo en españa en la que nuestra poblacion esta avanzada en edad. Aunque en otro paises ya sea India o China tienen una mayor natalidad a pesar de esto siguen una estrategia K.
 
 ### 17/10/2025
 
