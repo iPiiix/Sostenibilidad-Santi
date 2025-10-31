@@ -1,12 +1,17 @@
 ## Sostenibilidad 
 
+### 31/10/2025
+Recursos limitados y el consumo creciente del humano en La Tierra.
+El ciclo cerrado de la biosfera (agua, carbono, materiales) y sobre todo de como se ha usasado el agua a lo largo del tiempo y ahora. Ademas nos ha dicho dar una idea sobre 
+sostenibilidad e incluirlo en la bitacora grupal
+
 ### 24/10/2025
 
 En esta clase ha hablado sobre la estrategia K y R. Sobre la natalidad, evolucion de los seres vivos etc. 
 
-* **Estrategia R:** Se basa en producir muchas crías, pero con poca inversión en cada una
+**Estrategia R:** Se basa en producir muchas crías, pero con poca inversión en cada una
 
-* **Estrategia K:** Produce pocas crías, pero con gran inversión de cuidado y recursos.
+**Estrategia K:** Produce pocas crías, pero con gran inversión de cuidado y recursos.
 
 Ademas ha lanzado una pregunta de hoy es que que estrategia seguimos hoy en dia: 
 
@@ -21,6 +26,7 @@ Nosotros cooperamos en un rango determinado de personas pero competimos con otro
 Un ejemplo sencillo pero práctico es el de una empresa: las personas cooperan para que funcione, pero al mismo tiempo compiten entre sí por obtener un mejor puesto, los cuales son limitados. Además, la empresa en conjunto compite con otras empresas.
 
 Es casi una especie de bucle: todos competimos entre nosotros, pero a la vez necesitamos cooperar para avanzar. Es una dinámica algo extraña
+
 ### 10/10/2025
 
 El día de hoy, el profesor ha hablado sobre la **capacidad de carga**, poniendo como ejemplo la evolución bacteriana en un entorno y su curva de “natalidad”. Estas bacterias generan un ecosistema favorable para su desarrollo y comienzan a crecer de forma acelerada, hasta alcanzar un punto límite en el que el entorno deja de poder sostener un aumento adicional de población. A partir de ese instante, el sistema entra en equilibrio con la cantidad de individuos que el medio es capaz de mantener.
