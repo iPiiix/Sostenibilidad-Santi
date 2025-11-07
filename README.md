@@ -1,5 +1,8 @@
 ## Sostenibilidad 
 
+### 07/11/2025
+Este día no hubo clase. 
+
 ### 31/10/2025
 Recursos limitados y el consumo creciente del humano en La Tierra.
 El ciclo cerrado de la biosfera (agua, carbono, materiales) y sobre todo de como se ha usasado el agua a lo largo del tiempo y ahora. Ademas nos ha dicho dar una idea sobre 
