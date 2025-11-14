@@ -1,4 +1,34 @@
-## Sostenibilidad 
+# Sostenibilidad 
+
+### 14/11/2025
+#### **Explicación de la Clase de Hoy**
+En esta clase el profesor ha hablado sobre como organizar nuestro README y que ahora debemos añadir una imagen en el.md
+
+Tambien ha hablado sobre el analisis del ciclo de vida:
+Puso el ejemplo de un telefono movil. ¿Como es posible el peso oculto de un telefono movil? Ya que la fabricacion del movil son unos 80kg pero el producto final son unos pocos gramos. Por lo que para fabricar un movil se necesitan muchos recursos naturales y energia (silicio, litio, cobre, etc).
+
+Luego ha hablado sobre tipos de energia: Energia nuclear, hidraulica, eolica, solar, etc.
+
+#### **Pregunta del Dia:**
+Le pregunte a la IA lo siguiente: **ANÁLISIS DEL CICLO DE VIDA 
+Chuletón de Vaca Madurada y su PESO OCULTO**
+
+
+#### **Reflexión Personal**
+En mi opinion las mejores fuentes de energia son la nuclear. Ya que es una fuente de energia muy potente y con un bajo impacto ambiental en cuanto a emisiones de CO2. A pesar de los riesgos que conlleva, sigue siendo la mejor la opcion para reducir las emisiones de gases de efecto invernadero y optener la mejor eficacia. 
+
+El chuletón de vaca madurada tiene una mochila ecológica enorme: producir 
+
+- 1 kg requiere 15.000-20.000 L de agua
+- 25-30 kg de alimento
+- 330 m² de tierra 
+- genera 25-35 kg de CO₂eq
+
+Siendo la cría del ganado el 80% del impacto (metano, fertilizantes, suelo y energía). La maduración añade consumo eléctrico constante y pérdidas del 15-30% de peso, mientras que el transporte refrigerado, el envasado plástico y la cadena de frío incrementan aún más la huella. 
+
+En conjunto, por cada kg visible hay unos 60 kg de recursos ocultos. Es un producto de alto valor gastronómico pero con un impacto ambiental muy elevado; lo responsable es origen local, ganadería sostenible y aprovechar todo el producto.
+
+![alt text](Imagenes/SostenibilidadDia14.jpg)
 
 ### 07/11/2025
 Este día no hubo clase. 
@@ -9,19 +39,17 @@ El ciclo cerrado de la biosfera (agua, carbono, materiales) y sobre todo de como
 sostenibilidad e incluirlo en la bitacora grupal
 
 ### 24/10/2025
-
 En esta clase ha hablado sobre la estrategia K y R. Sobre la natalidad, evolucion de los seres vivos etc. 
 
-**Estrategia R:** Se basa en producir muchas crías, pero con poca inversión en cada una
+- **Estrategia R:** Se basa en producir muchas crías, pero con poca inversión en cada una
 
-**Estrategia K:** Produce pocas crías, pero con gran inversión de cuidado y recursos.
+- **Estrategia K:** Produce pocas crías, pero con gran inversión de cuidado y recursos.
 
 Ademas ha lanzado una pregunta de hoy es que que estrategia seguimos hoy en dia: 
 
 De forma clara seguimos la estrategia K. Tenemos una baja natalidad pero una mayor probabilidad de supervivencia. Sobre todo en españa en la que nuestra poblacion esta avanzada en edad. Aunque en otro paises ya sea India o China tienen una mayor natalidad a pesar de esto siguen una estrategia K.
 
 ### 17/10/2025
-
 Ha lanzado la pregunta de si vivimos solos. Es retórica, claro: obviamente no vivimos solos. En clase se dijo que vivimos con diferentes especies. Posteriormente surgió la cuestión: ¿Qué hacemos nosotros como seres humanos, cooperamos o competimos?
 
 Nosotros cooperamos en un rango determinado de personas pero competimos con otros. Al final esas relaciones de cooperacion estan basadas en un interes común. Sin embargo, incluso dentro de esa cooperación existen intereses personales y cierta avaricia por destacar o conseguir algo dentro del propio equipo. 
@@ -31,14 +59,12 @@ Un ejemplo sencillo pero práctico es el de una empresa: las personas cooperan p
 Es casi una especie de bucle: todos competimos entre nosotros, pero a la vez necesitamos cooperar para avanzar. Es una dinámica algo extraña
 
 ### 10/10/2025
-
 El día de hoy, el profesor ha hablado sobre la **capacidad de carga**, poniendo como ejemplo la evolución bacteriana en un entorno y su curva de “natalidad”. Estas bacterias generan un ecosistema favorable para su desarrollo y comienzan a crecer de forma acelerada, hasta alcanzar un punto límite en el que el entorno deja de poder sostener un aumento adicional de población. A partir de ese instante, el sistema entra en equilibrio con la cantidad de individuos que el medio es capaz de mantener.
 
 Este fenómeno es comparable con lo que ocurre con los seres humanos. También dependemos de recursos limitados de forma natural. Si sobrepasamos la capacidad de carga del planeta, se generan problemas como la escasez de recursos, la sobrepoblación y el deterioro ambiental, lo que pone en riesgo nuestro equilibrio como especie
 
 
 #### 03/10/2025
-
 Se ha hablado sobre las diferencias entre humanos y animales. Ademas lo hemos debatido entre la clase proponiendo suposiciones e ideas.
 
 El profesor nos ha lanzado la siguiente pregunta para responder: 
@@ -51,12 +77,10 @@ Por otra parte lo unico que podria acabar con nosotros no somos en si nosotros s
 En cuanto a mi clonclusión, es muy dificil pensar que la humanidad pueda acabar con **toda** la vida del planeta
 
 #### 26/09/2025
-
 En este día no he podido asistir a clase, pero he podido preguntar a un compañero y me ha comentado que cada fila de la clase tiene que hacer un repositorio publico en git. 
 
 
 #### 19/09/2025 
-
 En esta primera clase se nos ha introducido al modulo. 
 En el que hemos visto los siguiente puntos:
 
@@ -66,6 +90,4 @@ En el que hemos visto los siguiente puntos:
 En cuanto a la metodologia ha comentado que el trabajo mas importante será en grupo en el que crearemos una **pagina web** sobre alguna civilación. 
 
 
-
-
-
+> Trabajo Academico Sostenibilidad Curso 2025-2026
