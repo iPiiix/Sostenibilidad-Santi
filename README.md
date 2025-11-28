@@ -1,5 +1,25 @@
 # Sostenibilidad 
 
+### 28/11/2025
+#### **Explicación de la Clase de Hoy**
+Economia circular y economia lineal. 
+
+En cuanto el movelo lineal se basa en tomar, hacer y desecha. Tiene un impacto insostenible en el medio ambiente. En cuanto a datos va a aumentar a un 70% el consumo de recursos en 2050.
+
+Segun la teoria la economia circular que se basa en reducir, reutilizar y reciclar. Ya que la reparacion y reutilizacion de productos reduce el impacto ambiental y mejor para la economia. 
+
+#### **Pregunta del Dia:**
+**¿En cuanto a ecodiseño, como me afecta como persona. Ademas que prefieres un efoque mas colectivo: leyes que lo impongan o de forma individual?**
+
+Opino que el ecodiseño puede ayudar a reducir un poco el impactio ambiental. Pero no es la solucion definitiva. Ya que seria una situación "ideal" en la que todos los productos fueran ecodiseñados. Pero ademas se necesita un cambio de mentalidad en la sociedad. En una situacion "ideal" creo que seria importante que el gobierno impusiera leyes que obligaran a las empresas a ecodiseñar sus productos y ademas paises como china,  Estados Unidos, etc. que son los mayores contaminantes del mundo tambien se unieran a este cambio, porque esos dos paises ya crean aproximadamente un 35% de la producción mundial.
+
+Por lo que pienso que se debe implementar en escuelas, universidades, incluso padres que enseñen a sus hijos como funciona la reutilización. La importancia de cuidar el medio ambiente y que todos debemos aportar nuestro granito de arena. Y no en tanto en ecodiseño si no en reducir el consumo de productos innecesarios, reutilizar y reciclar. 
+
+![alt text](Imagenes/Paises.webp)
+
+### 21/11/2025
+Este día no hubo clase. 
+
 ### 14/11/2025
 #### **Explicación de la Clase de Hoy**
 En esta clase el profesor ha hablado sobre como organizar nuestro README y que ahora debemos añadir una imagen en el.md
