@@ -1,5 +1,18 @@
 # Sostenibilidad 
 
+### 05/12/2025
+Este dia no he asistido a clase por motivos personales. Aun asi pregunte a compañeros y me dijeron que el profesor hablo sobre la huella de carbono y la huella ecologica. Ademas de calcular tu huella de carbono.
+
+- **Huella de carbono:** Es toda la cantidad de gases de efecto invernadero que una persona emite a la atmosfera.
+
+- **Huella ecologica:** Es la cantidad de recursos naturales que una persona consume en su dia a dia.
+
+
+![alt text](Imagenes/HuellaCarbono.png) 
+Aunque segun la pagina web https://www.footprintcalculator.org/home necesitaria **5.8 planetas**. Casi que siento que es un dato absurdo. Mi consumo viene de necesidades estructurales: Tengo que usar mi coche para ir a clase, comprar, entrenar y practicamente vivir. Aun asi compro local, carne de la maxima proximidad y donde se que el animal ha podido vivir bien, huevos, lacteos etc. Todo esto reduce el transporte real. Pienso que el problema no soy tanto yo si no un modelo urbano y social mal diseñado. La organizacion y la infraestructura de pueblos y ciudades dicta el impacto ambiental.  
+
+
+
 ### 28/11/2025
 #### **Explicación de la Clase de Hoy**
 Economia circular y economia lineal. 
