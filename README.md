@@ -1,5 +1,25 @@
 # Sostenibilidad 
 
+### 12/12/2025
+#### **Explicación de la Clase de Hoy**
+El profesor ha hablado sobre el cambio climatico y perdida de biodiversidad.
+
+- **Cambio Climatico:** alteración a largo plazo de los patrones de temperatura y clima del planeta.
+- **Perdida de Biodiversidad:** reducción de la variedad de especies en un ecosistema.
+
+#### **Pregunta del Dia:**
+### ¿Cual es el prinpal emiso de CO2 a nivel mundial?
+Los principales emisores de CO2 a nivel mundial son: en primer lugar China, seguido de Estados Unidos, India, Rusia y Japon. Que tienen una gran poblacion e industrias que emiten grandes cantidades de CO2 a la atmosfera. Tienen al rededor de 60% de las emisiones globales.
+
+### ¿Cual es el sistema deberia implementar para evitar el colapso ambiental y el cambio climatico?.
+Como ya he dicho en anteriores commits, pienso que lo ideal seria un cambio de mentalidad en la sociedad. No un adoctrimaiento en si, pero promoveer una educación ambiental y claras sus consencuencias. Evitar las tipicas ideas de reciclar etc. Algunos ejemplos:
+- Aprender a convivir con la naturaleza casi de forma primitiva.
+- Aprender a comprar productos locales y de temporada y evitar comprar en monopolios ya que muchas compañas están llevadas por los mismos.
+
+Pero si tuviese que decir un sistema, seria un sistema socioeconomico donde las comunidades recuperaran autonomia y armonia con la naturaleza. 
+
+![alt text](Imagenes/ImagenDia12-12-25-3.jpg)
+
 ### 05/12/2025
 Este dia no he asistido a clase por motivos personales. Aun asi pregunte a compañeros y me dijeron que el profesor hablo sobre la huella de carbono y la huella ecologica. Ademas de calcular tu huella de carbono.
 
