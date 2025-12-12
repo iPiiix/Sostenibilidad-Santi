@@ -20,6 +20,12 @@ Pero si tuviese que decir un sistema, seria un sistema socioeconomico donde las 
 
 ![alt text](Imagenes/ImagenDia12-12-25-3.jpg)
 
+Link De La Pagina: [Pagina Web](https://www.escapadarural.com/blog/cuanto-sabes-de-la-naturaleza-de-espana/)
+
+**Parque Nacional de Aigüestortes y Estany de Sant Maurici**. Imagen tomada por Oleksandr Katrusha.
+Aunque no lo parezca, esta imagen es de España en el Parque Nacional de Aigüestortes y Estany de Sant Maurici. Un lugar espectacular que demuestra la belleza natural que tenemos en nuestro país y que debemos cuidar.
+
+
 ### 05/12/2025
 Este dia no he asistido a clase por motivos personales. Aun asi pregunte a compañeros y me dijeron que el profesor hablo sobre la huella de carbono y la huella ecologica. Ademas de calcular tu huella de carbono.
 
