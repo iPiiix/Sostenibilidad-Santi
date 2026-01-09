@@ -21,6 +21,12 @@ Link de la Pagina: [Pagina Web](https://academiaplay.net/reparto-de-africa/)
 
 En ella se ve a ottos von Bismarck, el canciller alemán, que fue el encargado de organizar la conferencia de Berlín, donde se establecieron las reglas para la colonización y el reparto de África.
 
+#### **Apadrinamiento de un Pingüino**
+El ejercito de Tierra Español ha sacado una campaña de apadrinamiento de pingüinos. Te envian un certificado de apadrinamiento y una foto del pingüino que has apadrinado. Obviamente con un tono simbolico, pero me ha parecido una iniciativa interesante y graciosa.
+
+![alt text](Imagenes/diploma_592682.png)
+Link de la Pagina: [Pagina Web](https://ejercito.defensa.gob.es/unidades/Antartica/antartica/apadrinamiento/index.html)
+
 ### 12/12/2025
 #### **Explicación de la Clase de Hoy**
 El profesor ha hablado sobre el cambio climatico y perdida de biodiversidad.
