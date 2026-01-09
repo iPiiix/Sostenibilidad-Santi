@@ -1,5 +1,26 @@
 # Sostenibilidad 
 
+### 09/01/2026
+#### **Explicación de la Clase de Hoy**
+En la clase del dia de hoy se ha charlado sobre la Contaminación y Residuos
+
+- **Contaminación:** Es la introducción de sustancias o productos en el medio ambiente que causan efectos negativos. Aunque, en realidad, esto no es más que el resultado natural de nuestro sistema económico: consumimos, exprimimos recursos y lo que no nos sirve lo convertimos en un desecho. El problema no es accidental, es estructural
+
+#### **Pregunta del Dia:**
+### ¿Cual es el motivo por el que cambiaste el movil?
+Lo tuve varios años, al rededor de unos 6 años. La pantalla estaba completamente destrozada, en parte por culpa mía, pero además su software había quedado totalmente obsoleto y ya no recibía actualizaciones. Por ese motivo decidí cambiarlo por uno nuevo, que llevo usando alrededor de cinco años y que sigue funcionando casi perfectamente, además de recibir actualizaciones de forma constante. El modelo anterior era un Huawei P9 Lite.
+
+#### **Reflexión Personal**
+En base a mis ideales, creo la contaminacion es un problema serio que los gobiernos deberian afrontar. Pero siendo sinceros, es ingenuo seguir creyendo que les importa algo mas que sus propios intereses y los entes económicos que los sustentan y subencionan, que en su mayoria son los que mueven el mundo. Esta sociedad funciona bajo una misma logica, la del beneficio. 
+
+Todo esto me recuerda una imagen que vi en mi libro de historia. El tema era sobre el reparto de África entre las potencias europeas. En la imagen se veia a los lideres de las potencias europeas en una mesa, con un mapa de Africa en el centro. 
+
+![alt text](Imagenes/ImagenDia09-01-26.jpg)
+
+Link de la Pagina: [Pagina Web](https://academiaplay.net/reparto-de-africa/)
+
+En ella se ve a ottos von Bismarck, el canciller alemán, que fue el encargado de organizar la conferencia de Berlín, donde se establecieron las reglas para la colonización y el reparto de África.
+
 ### 12/12/2025
 #### **Explicación de la Clase de Hoy**
 El profesor ha hablado sobre el cambio climatico y perdida de biodiversidad.
