@@ -1,5 +1,27 @@
 # Sostenibilidad 
 
+### 16/01/2026
+Ha explicado la idea de la agenda 2030 y los objetivos de desarrollo sostenible.
+
+- **Agenda 2030:** Es un plan de acción global adoptado por los Estados miembros de las Naciones Unidas en 2015 para erradicar la pobreza, proteger el planeta y garantizar la prosperidad para todos.
+
+Ademas hemos hablado de puntos negativos de la agenda 2030 y puntos positivos.
+- Putnos Positivos: conciencia global, cooperación internacional, enfoque integral.
+- Puntos Negativos: falta de cumplimiento, financiación insuficiente, desigualdades persistentes.
+
+#### **Pregunta del Dia + Reflexión Personal**
+Ni de lejos. Esta Agenda 2030 me parece una utopía. Una construcción ideológica. Parte de la idea de que el mundo funciona a través de valores universales y consensos morales, cuando en realidad funciona a través de poder, recursos y necesidades materiales.
+
+- El objetivo 11: “Ciudades y comunidades sostenibles”, ignora la realidad basica de la concentración masiva de población en ciudades que es una consecuencia directa del sistema económico actual. Pretender que todas las ciudades sean sostenibles mientras crecen sin control es negar la realidad estadistica.
+
+- Puedo decir otro: el objetivo 5: “Igualdad de género”. Depende totalmente del contexto geografico y cultural, religion incluso politico. Muchos lugares la estructura social y cultural no permite la igualdad de genero. Pretender que todos los paises del mundo adopten un mismo modelo de igualdad es una utopia.
+
+Al final, me parece que estos objetivos son mas una suelta al aire de buenas ideas y deseos que una estrategia realista y alcanzable de forma global. Desde mi putnos de vista, estos objetivos no van a fracasar porque sean malos, de hecho pienso que hay algunos que merece la pena, pero no tienen una base en la realidad material del mundo.
+
+![alt text](Imagenes/Agenda30Dia16-01-2026.jpg)
+
+Link ded la Pagina: [Pagina Web](https://www.un.org/sustainabledevelopment/es/2015/09/la-asamblea-general-adopta-la-agenda-2030-para-el-desarrollo-sostenible/)
+
 ### 09/01/2026
 #### **Explicación de la Clase de Hoy**
 En la clase del dia de hoy se ha charlado sobre la Contaminación y Residuos
